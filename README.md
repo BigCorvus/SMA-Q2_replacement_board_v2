@@ -10,4 +10,4 @@ Another feature that proved to be very useful if you like to wear a dev platform
 
 ![2.3](https://github.com/BigCorvus/SMA-Q2_replacement_board_v2/blob/master/SMA-Q2-nrf52840v2.3.png)  
 
-Note: 2.3 has not been tested yet. The Feather bootloader should still work, the pinout for the button, I2C, SPI, QSPI and UART is still the same. 
+Note: 2.3 has not been tested yet. The Feather bootloader should still work, the pinout for the button, I2C, SPI, QSPI and UART is still the same.   
